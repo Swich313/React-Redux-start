@@ -25,16 +25,22 @@
       "element": "water"
     },
     {
-      "id": "ecc87c0e-a58f-4312-af6f-86a5c89d47ff",
-      "name": "asc",
-      "description": "ccccc",
-      "element": "water"
-    },
-    {
       "id": "b45c4e9d-590c-4127-9d9c-1d78c66fa141",
       "name": "asf",
       "description": "213123",
       "element": "earth"
+    },
+    {
+      "id": "3f5d5973-0074-4bbb-8c6b-f2b9e003cd7e",
+      "name": "Пальцун",
+      "description": "qweqwe",
+      "element": "water"
+    },
+    {
+      "id": "65a27525-070c-4f19-969a-1eeb7acf2528",
+      "name": "Пальцун",
+      "description": "fdsf",
+      "element": "wind"
     }
   ],
   "filters": [

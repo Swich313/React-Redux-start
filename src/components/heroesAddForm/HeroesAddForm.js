@@ -20,12 +20,12 @@ const HeroesAddForm = () => {
     const [heroDescription, setHeroDescription] = useState('');
     const [heroElement, setHeroElement] = useState('');
 
-    const {filters, filtersLoadingStatus} = useSelector(state => state);
+    const {filters, filtersLoadingStatus} = useSelector(state => state.filters);
     const dispatch = useDispatch();
     const {request} = useHttp();
 
     const onSubmitHandler = e => {
-        // e.preventDefault();
+        e.preventDefault();
         const newHero = {
             id: uuidv4(),
             name: heroName,
