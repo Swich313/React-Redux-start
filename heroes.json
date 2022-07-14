@@ -29,18 +29,6 @@
       "name": "asf",
       "description": "213123",
       "element": "earth"
-    },
-    {
-      "id": "3f5d5973-0074-4bbb-8c6b-f2b9e003cd7e",
-      "name": "Пальцун",
-      "description": "qweqwe",
-      "element": "water"
-    },
-    {
-      "id": "65a27525-070c-4f19-969a-1eeb7acf2528",
-      "name": "Пальцун",
-      "description": "fdsf",
-      "element": "wind"
     }
   ],
   "filters": [
