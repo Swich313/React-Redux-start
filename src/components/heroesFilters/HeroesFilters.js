@@ -8,7 +8,8 @@
 
 import {useSelector, useDispatch} from "react-redux";
 import {useEffect} from "react";
-import {fetchFilters, activeFilterChanged} from "../../actions";
+import {fetchFilters} from "../../actions";
+import {activeFilterChanged} from '.././heroesFilters/filtersSlice'
 import {useHttp} from "../../hooks/http.hook";
 import classNames from "classnames";
 import Spinner from "../spinner/Spinner";
